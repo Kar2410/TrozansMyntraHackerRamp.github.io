@@ -28,5 +28,8 @@ open any browser and type http://localhost/TrozansMyntraHackerRamp.
 
 first register and then login
 
+# Screenshots
+![image](https://user-images.githubusercontent.com/56619907/140614997-37bca2c4-3bba-45b4-aad5-362697e90787.png)
+
 
 # You can Reach me at kartik_ug@ee.nits.ac.in
