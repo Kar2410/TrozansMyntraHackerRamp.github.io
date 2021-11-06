@@ -1,6 +1,6 @@
 # We are TeamTrozens 
 # MyntraHckerRamp2021
-#Installation
+# Installation
 
 Installation
 Install XAMPP or WAMPP.
